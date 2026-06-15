@@ -1,0 +1,5 @@
+Ruta de pesca;Pesca;80000
+Ruta de birdwatching;Birdwatching;50000
+Ruta cultural;Cultural;25000
+Ruta montañismo;Aventura;80000
+Ruta personalizada;Personalizado;100000
